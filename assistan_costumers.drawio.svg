@@ -1,0 +1,51 @@
+<mxfile host="65bd71144e">
+    <diagram id="aiU5eB1fWLIdKFnIXMtS" name="Page-1">
+        <mxGraphModel dx="692" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="uhCESaNa1oGeAzrVvJbU-2" edge="1" parent="1" source="IYqhXyfTNSZauvXDmKZU-1" style="edgeStyle=none;html=1;" target="uhCESaNa1oGeAzrVvJbU-1" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="IYqhXyfTNSZauvXDmKZU-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" value="Costumers" vertex="1">
+                    <mxGeometry height="30" width="60" x="395" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-2" edge="1" parent="1" source="uhCESaNa1oGeAzrVvJbU-1" style="edgeStyle=none;html=1;" target="KUBAnyGZ90juklJJplYL-1" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uhCESaNa1oGeAzrVvJbU-1" parent="1" style="whiteSpace=wrap;html=1;" value="USUARIO FINAL (Cliente de tu cliente)&amp;nbsp; Envía WhatsApp, correo, solicita cita o envía PDF" vertex="1">
+                    <mxGeometry height="95" width="184.5" x="333" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-4" edge="1" parent="1" source="KUBAnyGZ90juklJJplYL-1" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;" target="KUBAnyGZ90juklJJplYL-3" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="425.25" y="385"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-6" edge="1" parent="1" source="KUBAnyGZ90juklJJplYL-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KUBAnyGZ90juklJJplYL-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="425.25" y="380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-1" parent="1" style="whiteSpace=wrap;html=1;" value="ASISTENTE VIRTUAL IA Responde dudas, filtra spam, extrae datos y agenda&amp;nbsp;" vertex="1">
+                    <mxGeometry height="60" width="184.5" x="333" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-3" parent="1" style="whiteSpace=wrap;html=1;" value="Responde directo al usuario" vertex="1">
+                    <mxGeometry height="50" width="120" x="220" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-8" edge="1" parent="1" source="KUBAnyGZ90juklJJplYL-5" style="edgeStyle=none;html=1;" target="KUBAnyGZ90juklJJplYL-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alerta / Resumen Ejecutivo" vertex="1">
+                    <mxGeometry height="60" width="120" x="517.5" y="355" as="geometry"/>
+                </mxCell>
+                <mxCell id="KUBAnyGZ90juklJJplYL-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CLIENTE B2B&lt;br&gt;Supervisa, aprueba caso&lt;br&gt;complejos y revisa su&amp;nbsp;resumen diario." vertex="1">
+                    <mxGeometry height="135" width="172.5" x="491.25" y="480" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
